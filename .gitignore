@@ -1,3 +1,7 @@
 temp/
 Library/
+*.csproj
+*.sln
+*userprefs
+
 
