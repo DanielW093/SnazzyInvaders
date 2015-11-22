@@ -1,7 +1,5 @@
-temp/
+Temp/
 Library/
 *.csproj
 *.sln
 *.userprefs
-
-
