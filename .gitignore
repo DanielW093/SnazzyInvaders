@@ -1,7 +1,15 @@
+<<<<<<< HEAD
 temp/
 Library/
 *.csproj
 *.sln
 *userprefs
 
+=======
+Temp/
+Library/
+*.csproj
+*.sln
+*.userprefs
+>>>>>>> cc1939b5d40ba7144da9337bec8f545bc64d6353
 
